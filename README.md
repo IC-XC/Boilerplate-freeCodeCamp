@@ -1,2 +1,2 @@
-# Boilerplate-freeCodeCamp
-Relational Database - Learn Bash by Building a Boilerplate
+# 📖 Boilerplate-freeCodeCamp
+👣 Relational Database - Learn Bash by Building a Boilerplate
